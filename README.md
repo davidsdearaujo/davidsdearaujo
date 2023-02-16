@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋, David here
+### Mobile developer, New technologies enthusiast and currently Flutter Specialist!
+<img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=davidsdearaujo&show_icons=true&include_all_commits=true&count_private=true" />
 
-<!--
-**davidsdearaujo/davidsdearaujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 👨🏻‍💻 I’m Founder of the Flutter Brazilian community [Flutterando](https://flutterando.com.br/); 
+ 
+ 🔭 I’m currently working at [Audo](https://audo.com/) helping the Gen Z understand their strengths and enter the job market;
+ 
+ 🌱 Currently learning about Sliver Render Objects;
+ 
+ 📚 Actively collaborating on packages like: [[_See all Flutterando packages_]](https://pub.dev/publishers/flutterando.com.br/packages)
+   1. [ <img width="20px" align="center" src="https://raw.githubusercontent.com/Flutterando/website/main/assets/images/icons/svgs/package.png" /> localization](https://pub.dev/packages/localization)
+   2. [ <img width="20px" align="center" src="https://raw.githubusercontent.com/Flutterando/triple_pattern/master/doc/static/img/docusaurus.png" /> flutter_triple](https://pub.dev/packages/flutter_triple)
+   3. [<img width="140px" align="center" src="https://raw.githubusercontent.com/Flutterando/modular/master/flutter_modular.png" />](https://pub.dev/packages/flutter_modular)
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsdearaujo&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✉️ You can contact me by **contato@deivao.dev**
