@@ -16,4 +16,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsdearaujo&layout=compact)
 
-<img width="20px" align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> You can contact me by **[@davidsdearaujo](https://www.linkedin.com/in/davidsdearaujo)**
+[<img width="20px" align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/davidsdearaujo) You can contact me by **[@davidsdearaujo](https://www.linkedin.com/in/davidsdearaujo)**
