@@ -5,9 +5,9 @@
 
  👨🏻‍💻 I’m Founder of the Flutter Brazilian community [Flutterando](https://flutterando.com.br/); 
  
- 🔭 I work at [Audo](https://audo.com/) where I help Gen Z understand their strengths and enter the job market;
+ 🔭 I work at [Audo](https://audo.com/) where I help people understand their strengths and enter the job market;
  
- 🌱 Currently learning about **Games Development** with [Flame](https://docs.flame-engine.org/1.0.0/index.html) and [Bonfire](https://bonfire-engine.github.io/#/?id=welcome-to-bonfire);
+ 🌱 Currently learning about **AI** and **Neural Networks** with [Tensorflow JS](https://www.tensorflow.org/js?hl=pt-br);
  
  📚 Actively collaborating on packages like: [[_See all Flutterando packages_]](https://pub.dev/publishers/flutterando.com.br/packages)
    1. [ <img width="20px" align="center" src="https://raw.githubusercontent.com/Flutterando/website/main/assets/images/icons/svgs/package.png" /> localization](https://pub.dev/packages/localization)
