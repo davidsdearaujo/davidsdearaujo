@@ -3,7 +3,7 @@
 <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=davidsdearaujo&show_icons=true&include_all_commits=true&count_private=true" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsdearaujo" alt="marcostark" /> </p>
 
- 👨🏻‍💻 I’m Founder of the Flutter Brazilian community [Flutterando](https://flutterando.com.br/); 
+ 👨🏻‍💻 I’m Co-founder of the Flutter Brazilian community [Flutterando](https://flutterando.com.br/); 
  
  🔭 I work at [Audo](https://audo.com/) where I help people understand their strengths and enter the job market;
  
